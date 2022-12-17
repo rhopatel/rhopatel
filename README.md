@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - ⚡ I'm graduating in S23 and currently searching for Data Science / ML opportunities, particularly in biotech/healthcare
 
-- 📫 please feel free to reach out at rohanp@andrew.cmu.edu or at www.linkedin.com/rhopatel. Thanks!
+- 📫 please feel free to reach out at rohanp@andrew.cmu.edu or at www.linkedin.com/in/rhopatel. Thanks!
