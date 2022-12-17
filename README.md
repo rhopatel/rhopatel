@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 I'm Rohan, a 4th-year double major in Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
 
-- 🤔 This fall, i'm exploring the field of DL through the course 11-485/685 Intro to Deep Learning
+- 🤔 This fall, I'm exploring the field of DL through the course 11-485/685 Intro to Deep Learning
 
 - ⚡ I'm graduating in S23 and currently searching for Data Science / Machine Learning opportunities, particularly in biotech/healthcare
 
