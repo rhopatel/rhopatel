@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-- 😄 I'm Rohan, a 4th-year double major in Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
+- 😄 I'm Rohan! I'm working as a Computational Research Associate at AI Proteins, a biotech startup in Boston
 
-- 🤔 This fall, I'm exploring the field of DL through the course 11-485/685 Intro to Deep Learning
+- 🤔 Last fall, I explored the field of deep learning through the course 11-485/685 Intro to Deep Learning
 
-- ⚡ I'm graduating in S23 and currently searching for Data Science / ML opportunities, particularly in biotech/healthcare
+- ⚡ I graduated in S23 with a double major in Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
 
 - 📫 Please feel free to reach out at rohanp@andrew.cmu.edu or at www.linkedin.com/in/rhopatel. Thanks!
