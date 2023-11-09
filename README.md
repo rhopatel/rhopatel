@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - ⚡ I graduated in S23 with a double major in Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
 
-- 📫 Please feel free to reach out at rohanp@andrew.cmu.edu or at www.linkedin.com/in/rhopatel. Thanks!
+- 📫 Please feel free to reach out at rohanapatel12@gmail.com or at www.linkedin.com/in/rhopatel. Thanks!
