@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-- 😄 I'm Rohan! I'm working as a Computational Research Associate at AI Proteins, a biotech startup in Boston
+- 😄 I'm Rohan! I'm working as a Senior Computational Research Associate at AI Proteins, a biotech startup in Boston
 
-- 🤔 Last fall, I explored the field of deep learning through the course 11-485/685 Intro to Deep Learning
+- 🤔 I recently explored the field of deep learning through the course 11-485/685 Intro to Deep Learning
 
 - ⚡ I graduated in S23 with a double major in Neuroscience and Statistics & Machine Learning at Carnegie Mellon University
 
