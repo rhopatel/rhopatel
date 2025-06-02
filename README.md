@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-- 😄 I'm Rohan! I'm working as a Senior Computational Research Associate at AI Proteins, a biotech startup in Boston
+- 😄 I'm Rohan! I'm working as an AI Agent Engineer at OneTrack.AI in NYC
 
 - 🤔 I recently explored the field of deep learning through the course 11-485/685 Intro to Deep Learning
 
